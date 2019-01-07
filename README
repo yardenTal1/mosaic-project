@@ -1,0 +1,21 @@
+yardental
+203720700
+yarden tal
+
+I discussed the exercise with:
+
+=============================
+=  README for ex6: ex6 =
+=============================
+
+
+==================
+=  Description:  =
+==================
+The algorithm creates a mosaic image to some image by
+replacing every piece of image by the most fitting tiles
+(in the same sizes) according to their colors.
+
+======================
+=  Special Comments  =
+======================
